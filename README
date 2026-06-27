@@ -1,233 +1,376 @@
-Create an Outstanding GitHub Profile README
-
-Create a premium GitHub Profile README for a Software Developer.
-
-Developer Information
-
-Name: Santhosh S
-
-Role: Flutter Developer | AI Enthusiast | Computer Science Engineer
-
-Location: Tamil Nadu, India
-
-Portfolio: (Leave placeholder)
-
-LinkedIn: https://www.linkedin.com/in/santhoshflutterdev
-
-GitHub: https://github.com/santhoshflutterdev
-
-⸻
-
-Hero Section
-
-Display this GIF at the top:
+<!-- ========================= HERO SECTION ========================= -->
 
 <p align="center">
-  <img src="assets/output.gif" width="700">
+  <img src="./assets/output.gif" alt="Santhosh Superhero Banner" width="100%">
 </p>
 
-Below it display:
+<h1 align="center">
+Hi 👋, I'm Santhosh S
+</h1>
 
-Hi 👋 I’m Santhosh S
+<h3 align="center">
+Flutter Developer • AI Enthusiast • Computer Science Engineer
+</h3>
 
-Flutter Developer • AI Enthusiast • Problem Solver
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=850&lines=Flutter+Developer;AI+Enthusiast;Firebase+Developer;Dart+Programmer;Building+Beautiful+Mobile+Apps;Always+Learning+New+Technologies;Open+Source+Learner" />
+</p>
 
-Add a typing animation:
+<p align="center">
 
-Flutter Developer • Firebase • Dart • AI Projects • • REST APIs • Git • Open Source
+<a href="https://github.com/santhoshflutterdev">
+<img src="https://img.shields.io/github/followers/santhoshflutterdev?label=Followers&logo=github&style=for-the-badge">
+</a>
 
-⸻
+<a href="https://github.com/santhoshflutterdev">
+<img src="https://img.shields.io/github/stars/santhoshflutterdev?affiliations=OWNER&style=for-the-badge">
+</a>
 
-About Me
+<img src="https://komarev.com/ghpvc/?username=santhoshflutterdev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-Write an engaging recruiter-friendly introduction.
+</p>
 
-Mention that I:
+---
 
-* Recently completed B.Tech Computer Science Engineering
-* Passionate about Flutter Development
-* Love building AI-powered applications
-* Enjoy learning new technologies
-* Looking for Software Developer opportunities
-* Love solving real-world problems with technology
+<p align="center">
 
-⸻
+<a href="https://github.com/santhoshflutterdev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
-Tech Stack
+<a href="https://www.linkedin.com/in/santhoshflutterdev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-Create modern shields.io badges for:
+<a href="mailto:santhoshfluttercoder@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-Flutter
+<a href="https://santhoshflutterdev.github.io/santhosh-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
-Dart
+</p>
 
-Firebase
+---
 
-Git
+## 🚀 About Me
 
-GitHub
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-REST API
+🎓 Recently completed **B.Tech in Computer Science Engineering**
 
-HTML
+📱 Passionate about **Flutter Mobile Development**
 
-CSS
+🤖 Love building **AI-powered applications**
 
-JavaScript
+🔥 Interested in creating beautiful, responsive, and user-friendly mobile applications.
 
-VS Code
+🌱 Currently improving my skills in **Flutter, Firebase, REST APIs, and AI Integration.**
 
-Android Studio
+💼 Looking for **Flutter Developer / Software Developer** opportunities.
 
-Xcode
+⚡ Fun Fact:
+> I enjoy turning ideas into mobile applications using Flutter 🚀
 
-Figma
+---
+# 💻 Tech Stack
 
-⸻
+<p align="center">
 
-Featured Projects
+### 📱 Mobile Development
 
-Create beautiful project cards.
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 
-💰 Expense Tracker
+</p>
 
-Flutter
+<p align="center">
 
-Firebase Authentication
+### 🌐 Frontend Development
 
-Cloud Firestore
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-Analytics Dashboard
+</p>
 
-Provider
+<p align="center">
 
-⸻
-🎲 Dice Roll App
+### 🛠️ Tools & IDEs
 
-Tech Stack: Flutter, Dart
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 
-A beginner-friendly Flutter application that simulates rolling a six-sided dice with a smooth UI and random number generation.
+</p>
 
-Features:
+<p align="center">
 
-* 🎲 Random dice roll using Dart Random()
-* 🎨 Beautiful Material Design interface
-* ⚡ Instant state updates with setState()
-* 📱 Responsive layout for different screen sizes
+### 📚 Currently Learning
 
-⸻
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 
-🧠 Quiz Application
+</p>
 
-Tech Stack: Flutter, Dart
+---
 
-An interactive quiz app that presents multiple-choice questions, tracks user answers, and displays the final score.
+# 🛠 Languages & Tools
 
-Features:
+<p align="center">
 
-* ❓ Multiple-choice questions
-* 📊 Score calculation
-* 🔄 Restart quiz functionality
-* 🎯 Clean and user-friendly UI
-* ⚡ Efficient state management
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
-⚡ Electricity Theft Detection
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-Deep Learning
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-LSTM Autoencoder
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-Isolation Forest
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-Python
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-PyTorch
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-Machine Learning
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
-⸻
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-GitHub Statistics
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-Include:
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-GitHub Stats
+</p>
 
-Top Languages
+---
 
-GitHub Streak
+# 📊 GitHub Profile Summary
 
-Contribution Graph
+<p align="center">
 
-Profile Views Counter
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshflutterdev&theme=github_dark"/>
 
-⸻
+</p>
 
-Achievements
+---
 
-Display trophy section.
+# 🚀 Featured Projects
 
-⸻
+<table>
+<tr>
 
-Current Learning
+<td width="50%">
 
-Flutter Advanced
+### 💰 Expense Tracker
 
-AI Integration
+A modern Flutter application for tracking daily expenses with Firebase integration.
 
-Firebase
+#### ✨ Features
 
-⸻
+- 🔐 Firebase Authentication
+- ☁️ Cloud Firestore
+- 📊 Expense Analytics
+- 📅 Date-wise Filtering
+- 📂 Category Management
+- 📱 Beautiful Material UI
 
-Connect With Me
+#### 🛠 Tech Stack
 
-GitHub
+`Flutter` `Dart` `Firebase` `Provider`
 
-LinkedIn
+<a href="YOUR_EXPENSE_TRACKER_REPO">
+<img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github"/>
+</a>
 
-Email (santhoshfluttercoder@gmail.com)
+</td>
 
-Portfolio (https://santhoshflutterdev.github.io/santhosh-portfolio/)
+<td width="50%">
 
-⸻
+### 🎲 Dice Roll App
 
-Footer
+A beginner-friendly Flutter application that simulates rolling a six-sided dice.
 
-Create a premium footer saying:
+#### ✨ Features
 
-“Thanks for visiting my profile. Let’s build something amazing together.”
+- 🎲 Random Dice Generator
+- ⚡ Dart Random()
+- 🎨 Material Design UI
+- 📱 Responsive Layout
+- 🔄 Real-time State Updates
 
-Add a modern wave footer.
+#### 🛠 Tech Stack
 
-⸻
+`Flutter` `Dart`
 
-Theme
+<a href="YOUR_DICE_ROLL_REPO">
+<img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github"/>
+</a>
 
-Dark
+</td>
 
-Blue
+</tr>
 
-Purple
+<tr>
 
-Cyberpunk
+<td width="50%">
 
-Glassmorphism
+### 🧠 Quiz Application
 
-Minimal
+An interactive Flutter quiz application with score tracking.
 
-Recruiter Friendly
+#### ✨ Features
 
-Professional
+- ❓ Multiple Choice Questions
+- 📊 Score Calculation
+- 🔄 Restart Quiz
+- 📱 Responsive UI
+- ⚡ Efficient State Management
 
-Use clean HTML where necessary.
+#### 🛠 Tech Stack
 
-Center everything.
+`Flutter` `Dart`
 
-Responsive.
+<a href="YOUR_QUIZ_REPO">
+<img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github"/>
+</a>
 
-Well-spaced.
+</td>
 
-Use modern GitHub profile aesthetics similar to top open-source developers.
+<td width="50%">
 
-Output only the README.md content in Markdown.
+### ⚡ Electricity Theft Detection
+
+An AI-powered machine learning project for detecting electricity theft using deep learning.
+
+#### ✨ Features
+
+- 🤖 LSTM Autoencoder
+- 🌲 Isolation Forest
+- 📊 Data Analysis
+- 📈 Anomaly Detection
+- ⚡ High Detection Accuracy
+
+#### 🛠 Tech Stack
+
+`Python` `PyTorch` `Machine Learning`
+
+<a href="YOUR_ELECTRICITY_REPO">
+<img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,mongodb,git,github"/>
+
+</p>
+
+- 📱 Advanced Flutter Development
+- 🔥 Firebase Integration
+- 🌐 REST API Development
+- 🤖 AI & Machine Learning
+- 🏗 Clean Architecture
+- 📦 State Management
+- 🚀 Mobile App Performance Optimization
+
+---
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhoshflutterdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshflutterdev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshflutterdev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshflutterdev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=santhoshflutterdev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/santhoshflutterdev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santhoshflutterdev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:santhoshfluttercoder@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://santhoshflutterdev.github.io/santhosh-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote I Believe In
+
+<p align="center">
+
+> **"Every expert was once a beginner. Keep learning, keep building, and never stop improving." 🚀**
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```dart
+while (!success) {
+  learn();
+  code();
+  debug();
+  improve();
+  repeat();
+}
+```
+
+---
+
+# ❤️ Thanks for Visiting!
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<img src="https://komarev.com/ghpvc/?username=santhoshflutterdev&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4F46E5,100:00C9FF&height=150&section=footer"/>
+
+</p>
